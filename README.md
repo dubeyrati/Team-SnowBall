@@ -1,6 +1,9 @@
 ### Online Coding Platform: Commander of Full Stack  
 **Unleashing the Power of Full Stack Development for an Ultimate Coding Experience**  
+
 ![WhatsApp Image 2024-10-01 at 11 45 53_a73e716e](https://github.com/user-attachments/assets/63570dc4-d3ef-4e1c-b8c7-fed77edc892d)
+![WhatsApp Image 2024-10-01 at 11 45 53_2f0201a6](https://github.com/user-attachments/assets/46bd05d7-fd79-4d45-aeb7-646d3cbabc08)
+![WhatsApp Image 2024-10-01 at 11 45 53_14bf0ffb](https://github.com/user-attachments/assets/213f6b57-35a6-40f2-b230-c5f3704b99cb)
 
 
 Coding platforms are vital for helping developers practice, compete, and refine their programming skills. However, many existing platforms struggle with scalability, user experience, or a lack of competitive elements, limiting the growth and engagement of users. Our platform aims to change that by providing an optimized, interactive environment for coding, practicing, and competing.

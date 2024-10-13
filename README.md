@@ -19,17 +19,14 @@ We aim to build a **cutting-edge online coding platform** that provides a seamle
 ### 💡 Proposed Solution  
 We are developing a **comprehensive online coding platform** with the following components:
 
-1. **Coding Playground**: An interactive code editor powered by **CodeMirror**, where users can write, execute, and test their code in real time. The editor provides instant feedback with error logs, execution time, and memory usage, enhancing the coding experience.
-2. **Coding Arena**: A practice zone where users can solve coding problems, upload their own challenges, and track their progress.
-3. **Coding Battleground**: A competitive environment where users can participate in or create coding contests, featuring live leaderboards and performance metrics.
+1. **Coding Playground**: An interactive code editor, where users can write, execute, and test their code in real time. The editor provides instant feedback with error logs, execution time, and memory usage, enhancing the coding experience.
+2. **Coding Arena**: A practice zone where users can solve coding problems, upload their own challenges.
+3. **Coding Battleground**: A competitive environment where users can participate in or create coding contests.
 
 Our platform will excel in **performance**, **scalability**, and **security** while offering a user-friendly experience for all levels of programmers.  
 
 ### ⚙️ Key Features
 - **Real-Time Code Execution**: Users can execute their code instantly, receiving feedback on errors, runtime, and memory usage.
-- **Live Leaderboards**: Competitors can view live leaderboards during contests, adding excitement and real-time progress tracking.
-- **Customizable Contests**: Users can host their own coding contests with customizable start/end times, entry requirements, and problem sets.
-- **Advanced Metrics**: Execution time, memory usage, and accuracy scores will be available for all code submissions.
 - **Syntax Highlighting and Auto-Completion**: The **CodeMirror** editor will include essential developer tools like syntax highlighting and auto-completion to increase productivity.
 
 ### 💻 Tech Stack  
@@ -40,14 +37,6 @@ Our platform will excel in **performance**, **scalability**, and **security** wh
 **Backend**:  
 - **API**: **Piston API** for executing user-submitted code securely and efficiently.
 - **Framework**: Node.js for scalable and high-performance backend services.  
-
-**Data Science & Machine Learning**:  
-- **Libraries**: TensorFlow, Scikit-learn for advanced analytics and leaderboards.  
-- **Algorithms**: Leverage execution metrics to rank users based on accuracy and speed.  
-
-**DevOps & Deployment**:  
-- **Containerization**: Docker for isolated and scalable code execution environments.  
-- **Hosting**: AWS, Google Cloud for scalable cloud services with automated load balancing.  
 
 ### 🔧 Technical Feasibility  
 **Scalability**:  
